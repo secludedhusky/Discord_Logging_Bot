@@ -1,0 +1,12 @@
+{
+  "name": "logger",
+  "version": "0.1.0",
+  "main": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
